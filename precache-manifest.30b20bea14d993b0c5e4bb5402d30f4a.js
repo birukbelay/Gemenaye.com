@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9c4a6a7be49be9340ef3fbc9e1806921",
+    "revision": "45ffe6f3a362da03c76cf600c0d31020",
     "url": "/newGemenaye/index.html"
   },
   {
-    "revision": "a28728f52dfb1f342de8",
+    "revision": "5572358f613f3d726d3c",
     "url": "/newGemenaye/static/css/3.938589fe.chunk.css"
   },
   {
-    "revision": "27cca5f8cdd2799a7f09",
+    "revision": "d306744a0587fc563995",
     "url": "/newGemenaye/static/css/main.c09242b1.chunk.css"
   },
   {
@@ -20,20 +20,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newGemenaye/static/js/2.ac9a641a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a28728f52dfb1f342de8",
-    "url": "/newGemenaye/static/js/3.5ecafa5a.chunk.js"
+    "revision": "5572358f613f3d726d3c",
+    "url": "/newGemenaye/static/js/3.0e652174.chunk.js"
   },
   {
-    "revision": "10f7d8adbc150eaf7cb6",
-    "url": "/newGemenaye/static/js/4.8075c9f0.chunk.js"
+    "revision": "56e2e5cfefbeb2a63834",
+    "url": "/newGemenaye/static/js/4.8a9be5c7.chunk.js"
   },
   {
-    "revision": "27cca5f8cdd2799a7f09",
-    "url": "/newGemenaye/static/js/main.19b652c1.chunk.js"
+    "revision": "d306744a0587fc563995",
+    "url": "/newGemenaye/static/js/main.b37a99ef.chunk.js"
   },
   {
-    "revision": "084b2cd100b096b10853",
-    "url": "/newGemenaye/static/js/runtime-main.99f69657.js"
+    "revision": "9252fabe2a3368ef01c0",
+    "url": "/newGemenaye/static/js/runtime-main.0832e14b.js"
   },
   {
     "revision": "01798bc13e33afc36a52f2826638d386",
