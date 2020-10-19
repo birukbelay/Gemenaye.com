@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "70aeebe621f96e2e2e553cef5ce4a0bc",
+    "revision": "09bae2cbde3045e24f49c7bae25e7721",
     "url": "/newGemenaye/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newGemenaye/static/css/3.938589fe.chunk.css"
   },
   {
-    "revision": "a83bebd17e01b5f8590b",
+    "revision": "27a7267aa7598dbd620b",
     "url": "/newGemenaye/static/css/main.c09242b1.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newGemenaye/static/js/4.8a9be5c7.chunk.js"
   },
   {
-    "revision": "a83bebd17e01b5f8590b",
-    "url": "/newGemenaye/static/js/main.e7955ce8.chunk.js"
+    "revision": "27a7267aa7598dbd620b",
+    "url": "/newGemenaye/static/js/main.7ffa1bab.chunk.js"
   },
   {
     "revision": "9252fabe2a3368ef01c0",
