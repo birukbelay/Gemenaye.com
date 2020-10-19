@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/newGemenaye/static/css/main.c09242b1.chunk.css",
+    "main.js": "/newGemenaye/static/js/main.19b652c1.chunk.js",
+    "main.js.map": "/newGemenaye/static/js/main.19b652c1.chunk.js.map",
+    "runtime-main.js": "/newGemenaye/static/js/runtime-main.99f69657.js",
+    "runtime-main.js.map": "/newGemenaye/static/js/runtime-main.99f69657.js.map",
+    "static/js/2.ac9a641a.chunk.js": "/newGemenaye/static/js/2.ac9a641a.chunk.js",
+    "static/js/2.ac9a641a.chunk.js.map": "/newGemenaye/static/js/2.ac9a641a.chunk.js.map",
+    "static/css/3.938589fe.chunk.css": "/newGemenaye/static/css/3.938589fe.chunk.css",
+    "static/js/3.5ecafa5a.chunk.js": "/newGemenaye/static/js/3.5ecafa5a.chunk.js",
+    "static/js/3.5ecafa5a.chunk.js.map": "/newGemenaye/static/js/3.5ecafa5a.chunk.js.map",
+    "static/js/4.8075c9f0.chunk.js": "/newGemenaye/static/js/4.8075c9f0.chunk.js",
+    "static/js/4.8075c9f0.chunk.js.map": "/newGemenaye/static/js/4.8075c9f0.chunk.js.map",
+    "index.html": "/newGemenaye/index.html",
+    "precache-manifest.d965aa67c7021973de00f926f8bfb5c5.js": "/newGemenaye/precache-manifest.d965aa67c7021973de00f926f8bfb5c5.js",
+    "service-worker.js": "/newGemenaye/service-worker.js",
+    "static/css/3.938589fe.chunk.css.map": "/newGemenaye/static/css/3.938589fe.chunk.css.map",
+    "static/css/main.c09242b1.chunk.css.map": "/newGemenaye/static/css/main.c09242b1.chunk.css.map",
+    "static/js/2.ac9a641a.chunk.js.LICENSE.txt": "/newGemenaye/static/js/2.ac9a641a.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/newGemenaye/static/media/fa-solid-900.f72d546a.eot",
+    "static/media/font-awesome.min.css": "/newGemenaye/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f69657.js",
+    "static/js/2.ac9a641a.chunk.js",
+    "static/css/main.c09242b1.chunk.css",
+    "static/js/main.19b652c1.chunk.js"
+  ]
+}
